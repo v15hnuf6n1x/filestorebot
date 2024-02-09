@@ -1,8 +1,4 @@
-#(©)Codexbotz
-#@iryme
-
-
-
+#@Mr_V_bots 
 
 
 from aiohttp import web
